@@ -1,1 +1,1 @@
-## For Blog assets and utterances.
+## For blog assets and utterances.
