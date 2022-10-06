@@ -1,1 +1,1 @@
-# utterances_only
+## For Blog assets and utterances.
